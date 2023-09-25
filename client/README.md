@@ -1,4 +1,4 @@
-# Created the various requirements according to the given requiremnts:-
+# Created the Backend Dev Intern Task with the given requirements
                 Database Setup
                 User Registration
                 User Login 
